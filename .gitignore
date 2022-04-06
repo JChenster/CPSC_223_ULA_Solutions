@@ -69,3 +69,9 @@ adventure*
 myrooms.c
 
 moby.txt
+
+*.in
+*.out
+tester.py
+test.public
+/hw9/main*
