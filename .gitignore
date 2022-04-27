@@ -76,3 +76,6 @@ tester.py
 test.public
 /hw9/main*
 __pycache*
+
+hw11
+majority
